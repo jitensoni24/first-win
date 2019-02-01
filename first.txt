@@ -1,7 +1,0 @@
-hi first file
-
-spaces...
-
-sixth commit changes:
-worked on - git diff
-worked on - git diff --staged (this is used after the files are staged using : git add ....) 
