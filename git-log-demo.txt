@@ -1,0 +1,11 @@
+git log --oneline --graph --decorate
+* 9ce6a77 (HEAD -> feature-1, origin/feature-1) renamed the file using git mv oldname newname
+* b6003ee commit fift.txt again after working with delete and revert and reset
+* 09eded2 first file in feature 1 branch: commit 1
+* 22319f3 git diff, git diff --staged: sixth commit
+* 32f9e04 file renamed : fifth commit
+* 16085b6 Configured sublime as an editor for git commit messages ... cool
+* 98d7141 staged file final commit : commit 4
+* 21a6865 staged file commit -1
+* 9af2abe second commit
+* cb27836 first commit
